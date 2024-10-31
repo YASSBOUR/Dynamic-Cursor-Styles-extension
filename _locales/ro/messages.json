@@ -1,0 +1,36 @@
+{
+    "app_name": {
+        "message": "Stilul cursor - cursor personalizat pentru browserul dvs"
+    },    
+    "app_description": {
+        "message": "Cursoare cool, drăguțe și amuzante pentru Chrome™, alegeți dintre sute de opțiuni."
+    },    
+    "app_popup": {
+        "message": "Stilul cursorului"
+    },
+    "app_size": {
+        "message": "Marimea"
+    },
+    "more_cursors": {
+        "message": "Mai multe cursoare"
+    },
+    "favorite": {
+        "message": "Favorite"
+    },
+    "on": {
+        "message": "PE"
+    },    
+    "off": {
+        "message": "OFF"
+    },
+    "active_cursor": {
+        "message": "Activ"
+    },  
+    "assistance": {
+        "message": "Asistent"
+    },       
+    "assistance_default": {
+        "message": "Mod implicit"
+    }
+    
+}

@@ -1,0 +1,36 @@
+{
+    "app_name": {
+        "message": "Estil del cursor: cursor personalitzat per al vostre navegador"
+    },    
+    "app_description": {
+        "message": "Cursors divertits, simpàtics i divertits per a Chrome™, trieu entre centenars d'opcions."
+    },    
+    "app_popup": {
+        "message": "Estil del cursor"
+    },
+    "app_size": {
+        "message": "La mida"
+    },
+    "more_cursors": {
+        "message": "Més cursors"
+    },
+    "favorite": {
+        "message": "Preferits"
+    },
+    "on": {
+        "message": "ON"
+    },    
+    "off": {
+        "message": "OFF"
+    },
+    "active_cursor": {
+        "message": "Actiu"
+    },  
+    "assistance": {
+        "message": "Assistent"
+    },       
+    "assistance_default": {
+        "message": "Per defecte"
+    }
+    
+}

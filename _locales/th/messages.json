@@ -1,0 +1,36 @@
+{
+    "app_name": {
+        "message": "สไตล์เคอร์เซอร์ - เคอร์เซอร์ที่กำหนดเองสำหรับเบราว์เซอร์ของคุณ"
+    },    
+    "app_description": {
+        "message": "เคอร์เซอร์สุดเจ๋ง น่ารัก และตลกสำหรับ Chrome™ เลือกจากตัวเลือกนับร้อย"
+    },    
+    "app_popup": {
+        "message": "สไตล์เคอร์เซอร์"
+    },
+    "app_size": {
+        "message": "ขนาด"
+    },
+    "more_cursors": {
+        "message": "เคอร์เซอร์เพิ่มเติม"
+    },
+    "favorite": {
+        "message": "รายการโปรด"
+    },
+    "on": {
+        "message": "บน"
+    },    
+    "off": {
+        "message": "ปิด"
+    },
+    "active_cursor": {
+        "message": "คล่องแคล่ว"
+    },  
+    "assistance": {
+        "message": "ผู้ช่วย"
+    },       
+    "assistance_default": {
+        "message": "ค่าเริ่มต้น"
+    }
+    
+}

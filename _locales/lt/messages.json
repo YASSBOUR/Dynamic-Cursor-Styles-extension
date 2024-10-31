@@ -1,0 +1,36 @@
+{
+    "app_name": {
+        "message": "Žymeklio stilius – tinkintas žymeklis jūsų naršyklei"
+    },    
+    "app_description": {
+        "message": "Šaunūs, mieli ir juokingi „Chrome™“ žymekliai – pasirinkite iš šimtų parinkčių."
+    },    
+    "app_popup": {
+        "message": "Kursoriaus stilius"
+    },
+    "app_size": {
+        "message": "Dydis"
+    },
+    "more_cursors": {
+        "message": "Daugiau kursorių"
+    },
+    "favorite": {
+        "message": "Mėgstamiausi"
+    },
+    "on": {
+        "message": "ĮJUNGTA"
+    },    
+    "off": {
+        "message": "IŠJUNGTA"
+    },
+    "active_cursor": {
+        "message": "Aktyvus"
+    },  
+    "assistance": {
+        "message": "Asistentas"
+    },       
+    "assistance_default": {
+        "message": "Numatytas"
+    }
+    
+}

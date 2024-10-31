@@ -1,0 +1,36 @@
+{
+    "app_name": {
+        "message": "커서 스타일 - 브라우저용 맞춤 커서"
+    },    
+    "app_description": {
+        "message": "Chrome™용 멋지고 귀엽고 재미있는 커서로 수백 가지 옵션 중에서 선택하세요."
+    },    
+    "app_popup": {
+        "message": "커서 스타일"
+    },
+    "app_size": {
+        "message": "크기"
+    },
+    "more_cursors": {
+        "message": "더 많은 커서"
+    },
+    "favorite": {
+        "message": "즐겨찾기"
+    },
+    "on": {
+        "message": "켜짐"
+    },    
+    "off": {
+        "message": "끄다"
+    },
+    "active_cursor": {
+        "message": "활동적인"
+    },  
+    "assistance": {
+        "message": "어시스턴트"
+    },       
+    "assistance_default": {
+        "message": "기본"
+    }
+    
+}

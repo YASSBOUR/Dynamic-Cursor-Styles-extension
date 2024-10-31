@@ -1,0 +1,36 @@
+{
+    "app_name": {
+        "message": "Стиль курсора - курсор користувача для вашого браузера"
+    },    
+    "app_description": {
+        "message": "Круті, милі та смішні курсори для Chrome™, вибирайте із сотень варіантів."
+    },    
+    "app_popup": {
+        "message": "Стиль курсору"
+    },
+    "app_size": {
+        "message": "Розмір"
+    },
+    "more_cursors": {
+        "message": "Більше курсорів"
+    },
+    "favorite": {
+        "message": "Вибрані"
+    },
+    "on": {
+        "message": "ВКЛ"
+    },    
+    "off": {
+        "message": "ВИКЛ"
+    },
+    "active_cursor": {
+        "message": "Активний"
+    },  
+    "assistance": {
+        "message": "Помічник"
+    },       
+    "assistance_default": {
+        "message": "За замовчуванням"
+    }
+    
+}

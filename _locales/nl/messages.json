@@ -1,0 +1,36 @@
+{
+    "app_name": {
+        "message": "Cursorstijl - aangepaste cursor voor uw browser"
+    },    
+    "app_description": {
+        "message": "Coole, schattige en grappige cursors voor Chrome™, kies uit honderden opties."
+    },    
+    "app_popup": {
+        "message": "Cursorstijl"
+    },
+    "app_size": {
+        "message": "De grootte"
+    },
+    "more_cursors": {
+        "message": "Meer cursors"
+    },
+    "favorite": {
+        "message": "Favorieten"
+    },
+    "on": {
+        "message": "AAN"
+    },    
+    "off": {
+        "message": "UIT"
+    },
+    "active_cursor": {
+        "message": "Actief"
+    },  
+    "assistance": {
+        "message": "Assistent"
+    },       
+    "assistance_default": {
+        "message": "Standaard"
+    }
+    
+}

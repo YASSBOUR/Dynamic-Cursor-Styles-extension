@@ -1,0 +1,36 @@
+{
+    "app_name": {
+        "message": "কার্সার শৈলী - আপনার ব্রাউজারের জন্য কাস্টম কার্সার"
+    },    
+    "app_description": {
+        "message": "Chrome™ এর জন্য দুর্দান্ত, সুন্দর এবং মজার কার্সার, শত শত বিকল্প থেকে বেছে নিন।"
+    },    
+    "app_popup": {
+        "message": "কার্সার শৈলী"
+    },
+    "app_size": {
+        "message": "আকার"
+    },
+    "more_cursors": {
+        "message": "আরো কার্সার"
+    },
+    "favorite": {
+        "message": "প্রিয়"
+    },
+    "on": {
+        "message": "চালু"
+    },    
+    "off": {
+        "message": "বন্ধ"
+    },
+    "active_cursor": {
+        "message": "সক্রিয়"
+    },  
+    "assistance": {
+        "message": "সহকারী"
+    },       
+    "assistance_default": {
+        "message": "ডিফল্ট"
+    }
+    
+}

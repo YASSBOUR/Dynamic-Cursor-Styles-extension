@@ -1,0 +1,36 @@
+{
+    "app_name": {
+        "message": "Gaya kursor - kursor tersuai untuk penyemak imbas anda"
+    },    
+    "app_description": {
+        "message": "Kursor yang keren, comel dan lucu untuk Chrome™, pilih daripada beratus-ratus pilihan."
+    },    
+    "app_popup": {
+        "message": "Gaya kursor"
+    },
+    "app_size": {
+        "message": "Saiz"
+    },
+    "more_cursors": {
+        "message": "Lebih banyak kursor"
+    },
+    "favorite": {
+        "message": "Kegemaran"
+    },
+    "on": {
+        "message": "HIDUP"
+    },    
+    "off": {
+        "message": "DIMATIKAN"
+    },
+    "active_cursor": {
+        "message": "Aktif"
+    },  
+    "assistance": {
+        "message": "Penolong"
+    },       
+    "assistance_default": {
+        "message": "Lalai"
+    }
+    
+}

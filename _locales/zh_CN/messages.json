@@ -1,0 +1,36 @@
+{
+    "app_name": {
+        "message": "光标样式 - 为您的浏览器自定义光标"
+    },    
+    "app_description": {
+        "message": "用于 Chrome™ 的炫酷、可爱和有趣的光标，有数百个选项供您选择。"
+    },    
+    "app_popup": {
+        "message": "光标样式"
+    },
+    "app_size": {
+        "message": "规模"
+    },
+    "more_cursors": {
+        "message": "更多游标"
+    },
+    "favorite": {
+        "message": "收藏夹"
+    },
+    "on": {
+        "message": "上"
+    },    
+    "off": {
+        "message": "离开"
+    },
+    "active_cursor": {
+        "message": "积极的"
+    },  
+    "assistance": {
+        "message": "助手"
+    },       
+    "assistance_default": {
+        "message": "默认"
+    }
+    
+}

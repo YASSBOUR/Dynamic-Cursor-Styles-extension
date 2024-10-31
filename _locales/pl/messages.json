@@ -1,0 +1,36 @@
+{
+    "app_name": {
+        "message": "Styl kursora - niestandardowy kursor dla Twojej przeglądarki"
+    },    
+    "app_description": {
+        "message": "Fajne, urocze i zabawne kursory dla Chrome™, wybieraj spośród setek opcji."
+    },    
+    "app_popup": {
+        "message": "Styl kursora"
+    },
+    "app_size": {
+        "message": "Rozmiar"
+    },
+    "more_cursors": {
+        "message": "Więcej kursorów"
+    },
+    "favorite": {
+        "message": "Ulubione"
+    },
+    "on": {
+        "message": "NA "
+    },    
+    "off": {
+        "message": "WYŁĄCZONY"
+    },
+    "active_cursor": {
+        "message": "Aktywny"
+    },  
+    "assistance": {
+        "message": "Asystent"
+    },       
+    "assistance_default": {
+        "message": "Domyślna"
+    }
+    
+}

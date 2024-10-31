@@ -1,0 +1,36 @@
+{
+    "app_name": {
+        "message": "Στυλ δρομέα - προσαρμοσμένος δρομέας για το πρόγραμμα περιήγησής σας"
+    },    
+    "app_description": {
+        "message": "Δροσερό, χαριτωμένο και αστείο δρομέα για το Chrome™, επιλέξτε από εκατοντάδες επιλογές."
+    },    
+    "app_popup": {
+        "message": "Στυλ δρομέα"
+    },
+    "app_size": {
+        "message": "Το μέγεθος"
+    },
+    "more_cursors": {
+        "message": "Περισσότεροι δρομείς"
+    },
+    "favorite": {
+        "message": "Αγαπημένα"
+    },
+    "on": {
+        "message": "ΕΠΙ"
+    },    
+    "off": {
+        "message": "ΜΑΚΡΙΑ ΑΠΟ"
+    },
+    "active_cursor": {
+        "message": "Ενεργός"
+    },  
+    "assistance": {
+        "message": "Βοηθός"
+    },       
+    "assistance_default": {
+        "message": "Προκαθορισμένο"
+    }
+    
+}

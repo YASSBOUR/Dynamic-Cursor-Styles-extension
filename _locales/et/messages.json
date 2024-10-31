@@ -1,0 +1,36 @@
+{
+    "app_name": {
+        "message": "Kursori stiil – kohandatud kursor teie brauseri jaoks"
+    },    
+    "app_description": {
+        "message": "Lahedad, armsad ja naljakad kursorid Chrome™-i jaoks – valige sadade valikute hulgast."
+    },    
+    "app_popup": {
+        "message": "Kursori stiil"
+    },
+    "app_size": {
+        "message": "Suurus"
+    },
+    "more_cursors": {
+        "message": "Rohkem kursoreid"
+    },
+    "favorite": {
+        "message": "Lemmikud"
+    },
+    "on": {
+        "message": "PEAL"
+    },    
+    "off": {
+        "message": "VÄLJAS"
+    },
+    "active_cursor": {
+        "message": "Aktiivne"
+    },  
+    "assistance": {
+        "message": "Assistent"
+    },       
+    "assistance_default": {
+        "message": "Vaikimisi"
+    }
+    
+}

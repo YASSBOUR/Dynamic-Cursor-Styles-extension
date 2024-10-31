@@ -1,0 +1,36 @@
+{
+    "app_name": {
+        "message": "سبک مکان نما - مکان نما سفارشی برای مرورگر شما"
+    },    
+    "app_description": {
+        "message": "مکان نماهای جالب، زیبا و خنده دار برای Chrome™، از میان صدها گزینه انتخاب کنید."
+    },    
+    "app_popup": {
+        "message": "سبک مکان نما"
+    },
+    "app_size": {
+        "message": "اندازه"
+    },
+    "more_cursors": {
+        "message": "نشانگرهای بیشتر"
+    },
+    "favorite": {
+        "message": "موارد دلخواه"
+    },
+    "on": {
+        "message": "بر"
+    },    
+    "off": {
+        "message": "خاموش"
+    },
+    "active_cursor": {
+        "message": "فعال"
+    },  
+    "assistance": {
+        "message": "دستیار"
+    },       
+    "assistance_default": {
+        "message": "پیش فرض"
+    }
+    
+}

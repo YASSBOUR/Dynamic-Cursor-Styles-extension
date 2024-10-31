@@ -1,0 +1,36 @@
+{
+    "app_name": {
+        "message": "Estilo de cursor: cursor personalizado para su navegador"
+    },    
+    "app_description": {
+        "message": "Cursores geniales, bonitos y divertidos para Chrome™, elige entre cientos de opciones."
+    },    
+    "app_popup": {
+        "message": "Estilo de cursor"
+    },
+    "app_size": {
+        "message": "El tamaño"
+    },
+    "more_cursors": {
+        "message": "Más cursores"
+    },
+    "favorite": {
+        "message": "Favoritos"
+    },
+    "on": {
+        "message": "EN"
+    },    
+    "off": {
+        "message": "APAGADO"
+    },
+    "active_cursor": {
+        "message": "Activo"
+    },  
+    "assistance": {
+        "message": "Asistente"
+    },       
+    "assistance_default": {
+        "message": "Defecto"
+    }
+    
+}

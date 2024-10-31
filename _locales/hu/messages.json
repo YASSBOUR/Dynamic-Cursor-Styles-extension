@@ -1,0 +1,36 @@
+{
+    "app_name": {
+        "message": "Kurzorstílus – egyéni kurzor a böngészőhöz"
+    },    
+    "app_description": {
+        "message": "Menő, aranyos és vicces kurzorok a Chrome™-hoz, válassz több száz lehetőség közül."
+    },    
+    "app_popup": {
+        "message": "Kurzor stílus"
+    },
+    "app_size": {
+        "message": "A méret"
+    },
+    "more_cursors": {
+        "message": "További kurzorok"
+    },
+    "favorite": {
+        "message": "Kedvencek"
+    },
+    "on": {
+        "message": "TOVÁBB"
+    },    
+    "off": {
+        "message": "KI"
+    },
+    "active_cursor": {
+        "message": "Aktív"
+    },  
+    "assistance": {
+        "message": "Helyettes"
+    },       
+    "assistance_default": {
+        "message": "Alapértelmezett"
+    }
+    
+}

@@ -1,0 +1,36 @@
+{
+    "app_name": {
+        "message": "Styl kurzoru – vlastní kurzor pro váš prohlížeč"
+    },    
+    "app_description": {
+        "message": "Skvělé, roztomilé a zábavné kurzory pro Chrome™, vyberte si ze stovek možností."
+    },    
+    "app_popup": {
+        "message": "Styl kurzoru"
+    },
+    "app_size": {
+        "message": "Velikost"
+    },
+    "more_cursors": {
+        "message": "Více kurzorů"
+    },
+    "favorite": {
+        "message": "Oblíbené"
+    },
+    "on": {
+        "message": "NA"
+    },    
+    "off": {
+        "message": "VYPNUTO"
+    },
+    "active_cursor": {
+        "message": "Aktivní"
+    },  
+    "assistance": {
+        "message": "Asistent"
+    },       
+    "assistance_default": {
+        "message": "Výchozí"
+    }
+    
+}

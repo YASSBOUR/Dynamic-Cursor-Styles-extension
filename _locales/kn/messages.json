@@ -1,0 +1,36 @@
+{
+    "app_name": {
+        "message": "ಕರ್ಸರ್ ಶೈಲಿ - ನಿಮ್ಮ ಬ್ರೌಸರ್\u200cಗಾಗಿ ಕಸ್ಟಮ್ ಕರ್ಸರ್"
+    },    
+    "app_description": {
+        "message": "Chrome™ ಗಾಗಿ ತಂಪಾದ, ಮುದ್ದಾದ ಮತ್ತು ತಮಾಷೆಯ ಕರ್ಸರ್\u200cಗಳು, ನೂರಾರು ಆಯ್ಕೆಗಳಿಂದ ಆರಿಸಿಕೊಳ್ಳಿ."
+    },    
+    "app_popup": {
+        "message": "ಕರ್ಸರ್ ಶೈಲಿ"
+    },
+    "app_size": {
+        "message": "ಗಾತ್ರ"
+    },
+    "more_cursors": {
+        "message": "ಇನ್ನಷ್ಟು ಕರ್ಸರ್\u200cಗಳು"
+    },
+    "favorite": {
+        "message": "ಮೆಚ್ಚಿನವುಗಳು"
+    },
+    "on": {
+        "message": "ಆನ್ ಆಗಿದೆ"
+    },    
+    "off": {
+        "message": "ಆರಿಸಿ"
+    },
+    "active_cursor": {
+        "message": "ಸಕ್ರಿಯ"
+    },  
+    "assistance": {
+        "message": "ಸಹಾಯಕ"
+    },       
+    "assistance_default": {
+        "message": "ಡೀಫಾಲ್ಟ್"
+    }
+    
+}

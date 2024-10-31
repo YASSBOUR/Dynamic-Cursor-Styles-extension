@@ -1,0 +1,36 @@
+{
+    "app_name": {
+        "message": "Markørstil - tilpasset markør til din browser"
+    },    
+    "app_description": {
+        "message": "Seje, søde og sjove markører til Chrome™, vælg mellem hundredvis af muligheder."
+    },    
+    "app_popup": {
+        "message": "Markør stil"
+    },
+    "app_size": {
+        "message": "Størrelsen"
+    },
+    "more_cursors": {
+        "message": "Flere markører"
+    },
+    "favorite": {
+        "message": "Favoritter"
+    },
+    "on": {
+        "message": "PÅ"
+    },    
+    "off": {
+        "message": "AF"
+    },
+    "active_cursor": {
+        "message": "Aktiv"
+    },  
+    "assistance": {
+        "message": "Assistent"
+    },       
+    "assistance_default": {
+        "message": "Standard"
+    }
+    
+}

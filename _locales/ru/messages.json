@@ -1,0 +1,36 @@
+{
+    "app_name": {
+        "message": "Стиль курсора - пользовательский курсор для вашего браузера"
+    },    
+    "app_description": {
+        "message": "Крутые, милые и смешные курсоры для Chrome™, выбирайте из сотен вариантов."
+    },    
+    "app_popup": {
+        "message": "Стиль курсора"
+    },
+    "app_size": {
+        "message": "Размер"
+    },
+    "more_cursors": {
+        "message": "Больше курсоров"
+    },
+    "favorite": {
+        "message": "Избранные"
+    },
+    "on": {
+        "message": "ВКЛ"
+    },    
+    "off": {
+        "message": "ВЫКЛ"
+    },
+    "active_cursor": {
+        "message": "Активный"
+    },  
+    "assistance": {
+        "message": "Ассистент"
+    },       
+    "assistance_default": {
+        "message": "По умолчанию"
+    }
+    
+}

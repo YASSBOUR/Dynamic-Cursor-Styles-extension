@@ -1,0 +1,144 @@
+.btn_download_text{
+    cursor: pointer;
+    position: absolute;
+    width: 250px;
+    z-index: 10;
+    font-size: 19px;
+    text-align: center;
+    color: #353434;
+    margin-top: 23px;
+    margin-left: 77px;    
+}
+
+.btn_download {
+    cursor: pointer;
+    width: 337px;
+    height: 72px;
+    position: relative;
+    text-align: left;
+    padding-left: 10px;
+    margin: 0px;
+    overflow: hidden;
+    display: inline-block;
+    border-radius: 7px;
+    margin-left: 13px;
+    margin-bottom: 10px;
+    margin-top: 6px;
+}
+.btn_download.download {
+/*    background: #00CCFF;*/
+    background: #b4f0ff;
+}
+.btn_download.download .cloud {
+    box-shadow: 0px 0px #00a3cc, 1px 1px #00a3cc, 2px 2px #00a3cc, 3px 3px #00a3cc, 4px 4px #00a3cc, 5px 5px #00a3cc, 6px 6px #00a3cc, 7px 7px #00a3cc, 8px 8px #00a3cc, 9px 9px #00a3cc, 10px 10px #00a3cc, 11px 11px #00a3cc, 12px 12px #00a3cc, 13px 13px #00a3cc, 14px 14px #00a3cc, 15px 15px #00a3cc, 16px 16px #00a3cc, 17px 17px #00a3cc, 18px 18px #00a3cc, 19px 19px #00a3cc, 20px 20px #00a3cc, 21px 21px #00a3cc, 22px 22px #00a3cc, 23px 23px #00a3cc, 24px 24px #00a3cc, 25px 25px #00a3cc, 26px 26px #00a3cc, 27px 27px #00a3cc, 28px 28px #00a3cc, 29px 29px #00a3cc, 30px 30px #00a3cc, 31px 31px #00a3cc, 32px 32px #00a3cc, 33px 33px #00a3cc, 34px 34px #00a3cc, 35px 35px #00a3cc, 36px 36px #00a3cc, 37px 37px #00a3cc, 38px 38px #00a3cc, 39px 39px #00a3cc, 40px 40px #00a3cc, 41px 41px #00a3cc, 42px 42px #00a3cc, 43px 43px #00a3cc, 44px 44px #00a3cc, 45px 45px #00a3cc, 46px 46px #00a3cc, 47px 47px #00a3cc, 48px 48px #00a3cc, 49px 49px #00a3cc, 50px 50px #00a3cc;
+}
+.btn_download.download .arrow {
+    -webkit-animation: download 1s linear infinite;
+    animation: download 1s linear infinite;
+}
+.btn_download.upload {
+    background: #F49845;
+}
+.btn_download.upload .cloud {
+    box-shadow: 0px 0px #f17d15, 1px 1px #f17d15, 2px 2px #f17d15, 3px 3px #f17d15, 4px 4px #f17d15, 5px 5px #f17d15, 6px 6px #f17d15, 7px 7px #f17d15, 8px 8px #f17d15, 9px 9px #f17d15, 10px 10px #f17d15, 11px 11px #f17d15, 12px 12px #f17d15, 13px 13px #f17d15, 14px 14px #f17d15, 15px 15px #f17d15, 16px 16px #f17d15, 17px 17px #f17d15, 18px 18px #f17d15, 19px 19px #f17d15, 20px 20px #f17d15, 21px 21px #f17d15, 22px 22px #f17d15, 23px 23px #f17d15, 24px 24px #f17d15, 25px 25px #f17d15, 26px 26px #f17d15, 27px 27px #f17d15, 28px 28px #f17d15, 29px 29px #f17d15, 30px 30px #f17d15, 31px 31px #f17d15, 32px 32px #f17d15, 33px 33px #f17d15, 34px 34px #f17d15, 35px 35px #f17d15, 36px 36px #f17d15, 37px 37px #f17d15, 38px 38px #f17d15, 39px 39px #f17d15, 40px 40px #f17d15, 41px 41px #f17d15, 42px 42px #f17d15, 43px 43px #f17d15, 44px 44px #f17d15, 45px 45px #f17d15, 46px 46px #f17d15, 47px 47px #f17d15, 48px 48px #f17d15, 49px 49px #f17d15, 50px 50px #f17d15;
+}
+.btn_download.upload .arrow {
+    -webkit-animation: uplaod 1s linear infinite;
+    animation: uplaod 1s linear infinite;
+}
+.btn_download.upload .arrow:after {
+    top: auto;
+    bottom: 100%;
+    border-color: transparent transparent #97CA03 transparent;
+}
+
+.cloud {
+    width: 94px;
+    height: 40px;
+    position: relative;
+    background: #fff;
+    display: inline-block;
+    border-radius: 50px;
+    margin: 25px auto 0;
+    box-shadow: 0px 0px #00a3cc, 1px 1px #00a3cc, 2px 2px #00a3cc, 3px 3px #00a3cc, 4px 4px #00a3cc, 5px 5px #00a3cc, 6px 6px #00a3cc, 7px 7px #00a3cc, 8px 8px #00a3cc, 9px 9px #00a3cc, 10px 10px #00a3cc, 11px 11px #00a3cc, 12px 12px #00a3cc, 13px 13px #00a3cc, 14px 14px #00a3cc, 15px 15px #00a3cc, 16px 16px #00a3cc, 17px 17px #00a3cc, 18px 18px #00a3cc, 19px 19px #00a3cc, 20px 20px #00a3cc, 21px 21px #00a3cc, 22px 22px #00a3cc, 23px 23px #00a3cc, 24px 24px #00a3cc, 25px 25px #00a3cc, 26px 26px #00a3cc, 27px 27px #00a3cc, 28px 28px #00a3cc, 29px 29px #00a3cc, 30px 30px #00a3cc, 31px 31px #00a3cc, 32px 32px #00a3cc, 33px 33px #00a3cc, 34px 34px #00a3cc, 35px 35px #00a3cc, 36px 36px #00a3cc, 37px 37px #00a3cc, 38px 38px #00a3cc, 39px 39px #00a3cc, 40px 40px #00a3cc, 41px 41px #00a3cc, 42px 42px #00a3cc, 43px 43px #00a3cc, 44px 44px #00a3cc, 45px 45px #00a3cc, 46px 46px #00a3cc, 47px 47px #00a3cc, 48px 48px #00a3cc, 49px 49px #00a3cc, 50px 50px #00a3cc;
+}
+.cloud:after, .cloud:before {
+    content: '';
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    border-radius: 100%;
+    top: -20px;
+    background: #fff;
+    left: 5px;
+}
+.cloud:before {
+    width: 40px;
+    height: 40px;
+    left: 50px;
+}
+
+.arrow {
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: auto;
+    z-index: 5;
+    top: 10px;
+    width: 15px;
+    height: 10px;
+    background: #97CA03;
+    display: inline-block;
+}
+.arrow:after {
+    content: '';
+    position: absolute;
+    left: -8px;
+    top: 100%;
+    border: 15px solid transparent;
+    border-top-color: #97CA03;
+}
+@-webkit-keyframes download {
+    0% {
+        -webkit-transform: translateY(-20px);
+        transform: translateY(-20px);
+    }
+    100% {
+        -webkit-transform: translateY(20px);
+        transform: translateY(20px);
+        opacity: 0;
+    }
+}
+@keyframes download {
+    0% {
+        -webkit-transform: translateY(-20px);
+        transform: translateY(-20px);
+    }
+    100% {
+        -webkit-transform: translateY(20px);
+        transform: translateY(20px);
+        opacity: 0;
+    }
+}
+@-webkit-keyframes uplaod {
+    0% {
+        -webkit-transform: translateY(20px);
+        transform: translateY(20px);
+    }
+    100% {
+        -webkit-transform: translateY(-20px);
+        transform: translateY(-20px);
+        opacity: 0;
+    }
+}
+@keyframes uplaod {
+    0% {
+        -webkit-transform: translateY(20px);
+        transform: translateY(20px);
+    }
+    100% {
+        -webkit-transform: translateY(-20px);
+        transform: translateY(-20px);
+        opacity: 0;
+    }
+}

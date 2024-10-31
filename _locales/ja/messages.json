@@ -1,0 +1,36 @@
+{
+    "app_name": {
+        "message": "カーソル スタイル - ブラウザのカスタム カーソル"
+    },    
+    "app_description": {
+        "message": "Chrome™ 用のクールでキュートで面白いカーソル。何百ものオプションから選択できます。"
+    },    
+    "app_popup": {
+        "message": "カーソルのスタイル"
+    },
+    "app_size": {
+        "message": "サイズ"
+    },
+    "more_cursors": {
+        "message": "その他のカーソル"
+    },
+    "favorite": {
+        "message": "お気に入り"
+    },
+    "on": {
+        "message": "オン"
+    },    
+    "off": {
+        "message": "オフ"
+    },
+    "active_cursor": {
+        "message": "アクティブ"
+    },  
+    "assistance": {
+        "message": "アシスタント"
+    },       
+    "assistance_default": {
+        "message": "デフォルト"
+    }
+    
+}

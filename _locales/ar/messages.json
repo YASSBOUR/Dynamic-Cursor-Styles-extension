@@ -1,0 +1,36 @@
+{
+    "app_name": {
+        "message": "نمط المؤشر - مؤشر مخصص لمتصفحك"
+    },    
+    "app_description": {
+        "message": "مؤشرات رائعة ولطيفة ومضحكة لمتصفح Chrome ™ ، اختر من بين مئات الخيارات."
+    },    
+    "app_popup": {
+        "message": "نمط المؤشر"
+    },
+    "app_size": {
+        "message": "الحجم"
+    },
+    "more_cursors": {
+        "message": "المزيد من المؤشرات"
+    },
+    "favorite": {
+        "message": "المفضلة"
+    },
+    "on": {
+        "message": "على"
+    },    
+    "off": {
+        "message": "إيقاف"
+    },
+    "active_cursor": {
+        "message": "نشيط"
+    },  
+    "assistance": {
+        "message": "مساعد"
+    },       
+    "assistance_default": {
+        "message": "تقصير"
+    }
+    
+}

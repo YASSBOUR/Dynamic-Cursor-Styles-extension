@@ -1,0 +1,36 @@
+{
+    "app_name": {
+        "message": "Kohdistimen tyyli - mukautettu kohdistin selaimellesi"
+    },    
+    "app_description": {
+        "message": "Hienoja, söpöjä ja hauskoja Chrome™-osoittimia, valitse sadoista vaihtoehdoista."
+    },    
+    "app_popup": {
+        "message": "Kohdistimen tyyli"
+    },
+    "app_size": {
+        "message": "Koko"
+    },
+    "more_cursors": {
+        "message": "Lisää kursoreita"
+    },
+    "favorite": {
+        "message": "Suosikit"
+    },
+    "on": {
+        "message": "PÄÄLLÄ"
+    },    
+    "off": {
+        "message": "VINOSSA"
+    },
+    "active_cursor": {
+        "message": "Aktiivinen"
+    },  
+    "assistance": {
+        "message": "Assistant"
+    },       
+    "assistance_default": {
+        "message": "Oletus"
+    }
+    
+}

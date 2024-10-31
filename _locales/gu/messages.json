@@ -1,0 +1,36 @@
+{
+    "app_name": {
+        "message": "કર્સર શૈલી - તમારા બ્રાઉઝર માટે કસ્ટમ કર્સર"
+    },    
+    "app_description": {
+        "message": "Chrome™ માટે શાનદાર, સુંદર અને રમુજી કર્સર, સેંકડો વિકલ્પોમાંથી પસંદ કરો."
+    },    
+    "app_popup": {
+        "message": "કર્સર શૈલી"
+    },
+    "app_size": {
+        "message": "કદ"
+    },
+    "more_cursors": {
+        "message": "વધુ કર્સર"
+    },
+    "favorite": {
+        "message": "મનપસંદ"
+    },
+    "on": {
+        "message": "ચાલુ"
+    },    
+    "off": {
+        "message": "બંધ"
+    },
+    "active_cursor": {
+        "message": "સક્રિય"
+    },  
+    "assistance": {
+        "message": "મદદનીશ"
+    },       
+    "assistance_default": {
+        "message": "ડિફૉલ્ટ"
+    }
+    
+}

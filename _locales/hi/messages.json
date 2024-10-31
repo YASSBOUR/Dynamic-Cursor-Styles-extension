@@ -1,0 +1,36 @@
+{
+    "app_name": {
+        "message": "कर्सर शैली - आपके ब्राउज़र के लिए कस्टम कर्सर"
+    },    
+    "app_description": {
+        "message": "Chrome™ के लिए शानदार, आकर्षक और मज़ेदार कर्सर, सैकड़ों विकल्पों में से चुनें."
+    },    
+    "app_popup": {
+        "message": "कर्सर शैली"
+    },
+    "app_size": {
+        "message": "आकार"
+    },
+    "more_cursors": {
+        "message": "अधिक कर्सर"
+    },
+    "favorite": {
+        "message": "पसंदीदा"
+    },
+    "on": {
+        "message": "पर"
+    },    
+    "off": {
+        "message": "बंद"
+    },
+    "active_cursor": {
+        "message": "सक्रिय"
+    },  
+    "assistance": {
+        "message": "सहायक"
+    },       
+    "assistance_default": {
+        "message": "चूक"
+    }
+    
+}

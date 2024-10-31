@@ -1,0 +1,36 @@
+{
+    "app_name": {
+        "message": "Cursor-Stil - benutzerdefinierter Cursor für Ihren Browser"
+    },    
+    "app_description": {
+        "message": "Coole, niedliche und lustige Cursor für Chrome™, wählen Sie aus Hunderten von Optionen."
+    },    
+    "app_popup": {
+        "message": "Cursor-Stil"
+    },
+    "app_size": {
+        "message": "Die Größe"
+    },
+    "more_cursors": {
+        "message": "Mehr Cursor"
+    },
+    "favorite": {
+        "message": "Favoriten"
+    },
+    "on": {
+        "message": "AN"
+    },    
+    "off": {
+        "message": "AUS"
+    },
+    "active_cursor": {
+        "message": "Aktiv"
+    },  
+    "assistance": {
+        "message": "Assistent"
+    },       
+    "assistance_default": {
+        "message": "Default"
+    }
+    
+}

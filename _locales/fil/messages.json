@@ -1,0 +1,36 @@
+{
+    "app_name": {
+        "message": "Estilo ng cursor - custom na cursor para sa iyong browser"
+    },    
+    "app_description": {
+        "message": "Cool, cute at nakakatawang mga cursor para sa Chrome™, pumili mula sa daan-daang opsyon."
+    },    
+    "app_popup": {
+        "message": "Estilo ng cursor"
+    },
+    "app_size": {
+        "message": "Ang sukat"
+    },
+    "more_cursors": {
+        "message": "Higit pang mga cursor"
+    },
+    "favorite": {
+        "message": "Mga paborito"
+    },
+    "on": {
+        "message": "NAKA-ON"
+    },    
+    "off": {
+        "message": "NAKA-OFF"
+    },
+    "active_cursor": {
+        "message": "Aktibo"
+    },  
+    "assistance": {
+        "message": "Katulong"
+    },       
+    "assistance_default": {
+        "message": "Default"
+    }
+    
+}

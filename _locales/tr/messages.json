@@ -1,0 +1,36 @@
+{
+    "app_name": {
+        "message": "İmleç stili - tarayıcınız için özel imleç"
+    },    
+    "app_description": {
+        "message": "Chrome™ için havalı, sevimli ve eğlenceli imleçler, yüzlerce seçenek arasından seçim yapın."
+    },    
+    "app_popup": {
+        "message": "İmleç stili"
+    },
+    "app_size": {
+        "message": "Boyut"
+    },
+    "more_cursors": {
+        "message": "Daha fazla imleç"
+    },
+    "favorite": {
+        "message": "Favoriler"
+    },
+    "on": {
+        "message": "ÜZERİNDE"
+    },    
+    "off": {
+        "message": "KAPALI"
+    },
+    "active_cursor": {
+        "message": "Aktif"
+    },  
+    "assistance": {
+        "message": "asistan"
+    },       
+    "assistance_default": {
+        "message": "Varsayılan"
+    }
+    
+}

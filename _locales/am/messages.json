@@ -1,0 +1,36 @@
+{
+    "app_name": {
+        "message": "የጠቋሚ ዘይቤ - ብጁ ጠቋሚ ለአሳሽዎ"
+    },    
+    "app_description": {
+        "message": "ለ Chrome™ አሪፍ፣ ቆንጆ እና አስቂኝ ጠቋሚዎች፣ በመቶዎች ከሚቆጠሩ አማራጮች ውስጥ ይምረጡ።"
+    },    
+    "app_popup": {
+        "message": "የጠቋሚ ዘይቤ"
+    },
+    "app_size": {
+        "message": "መጠኑ"
+    },
+    "more_cursors": {
+        "message": "ተጨማሪ ጠቋሚዎች"
+    },
+    "favorite": {
+        "message": "ተወዳጆች"
+    },
+    "on": {
+        "message": "በርቷል"
+    },    
+    "off": {
+        "message": "ጠፍቷል"
+    },
+    "active_cursor": {
+        "message": "ንቁ"
+    },  
+    "assistance": {
+        "message": "ረዳት"
+    },       
+    "assistance_default": {
+        "message": "ነባሪ"
+    }
+    
+}

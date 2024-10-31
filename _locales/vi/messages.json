@@ -1,0 +1,36 @@
+{
+    "app_name": {
+        "message": "Kiểu con trỏ - con trỏ tùy chỉnh cho trình duyệt của bạn"
+    },    
+    "app_description": {
+        "message": "Con trỏ thú vị, dễ thương và hài hước dành cho Chrome™, chọn từ hàng trăm tùy chọn."
+    },    
+    "app_popup": {
+        "message": "kiểu con trỏ"
+    },
+    "app_size": {
+        "message": "Kích cỡ"
+    },
+    "more_cursors": {
+        "message": "Thêm con trỏ"
+    },
+    "favorite": {
+        "message": "yêu thích"
+    },
+    "on": {
+        "message": "TRÊN"
+    },    
+    "off": {
+        "message": "TẮT"
+    },
+    "active_cursor": {
+        "message": "Tích cực"
+    },  
+    "assistance": {
+        "message": "Trợ lý"
+    },       
+    "assistance_default": {
+        "message": "Mặc định"
+    }
+    
+}

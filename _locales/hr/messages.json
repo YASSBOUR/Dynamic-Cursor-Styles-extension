@@ -1,0 +1,36 @@
+{
+    "app_name": {
+        "message": "Stil pokazivača - prilagođeni kursor za vaš preglednik"
+    },    
+    "app_description": {
+        "message": "Cool, slatki i smiješni kursori za Chrome™, birajte između stotina opcija."
+    },    
+    "app_popup": {
+        "message": "Stil kursora"
+    },
+    "app_size": {
+        "message": "Veličina"
+    },
+    "more_cursors": {
+        "message": "Više kursora"
+    },
+    "favorite": {
+        "message": "Favoriti"
+    },
+    "on": {
+        "message": "NA"
+    },    
+    "off": {
+        "message": "ISKLJUČENO"
+    },
+    "active_cursor": {
+        "message": "Aktivan"
+    },  
+    "assistance": {
+        "message": "Pomoćnik"
+    },       
+    "assistance_default": {
+        "message": "Zadano"
+    }
+    
+}

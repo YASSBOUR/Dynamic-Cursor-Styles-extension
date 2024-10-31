@@ -1,0 +1,36 @@
+{
+    "app_name": {
+        "message": "കഴ്\u200cസർ ശൈലി - നിങ്ങളുടെ ബ്രൗസറിനായുള്ള ഇഷ്\u200cടാനുസൃത കഴ്\u200cസർ"
+    },    
+    "app_description": {
+        "message": "Chrome™-നുള്ള രസകരവും മനോഹരവും രസകരവുമായ കഴ്\u200cസറുകൾ, നൂറുകണക്കിന് ഓപ്ഷനുകളിൽ നിന്ന് തിരഞ്ഞെടുക്കുക."
+    },    
+    "app_popup": {
+        "message": "കഴ്സർ ശൈലി"
+    },
+    "app_size": {
+        "message": "വലിപ്പം"
+    },
+    "more_cursors": {
+        "message": "കൂടുതൽ കഴ്\u200cസറുകൾ"
+    },
+    "favorite": {
+        "message": "പ്രിയപ്പെട്ടവ"
+    },
+    "on": {
+        "message": "ഓൺ"
+    },    
+    "off": {
+        "message": "ഓഫ്"
+    },
+    "active_cursor": {
+        "message": "സജീവമാണ്"
+    },  
+    "assistance": {
+        "message": "അസിസ്റ്റന്റ്"
+    },       
+    "assistance_default": {
+        "message": "സ്ഥിരസ്ഥിതി"
+    }
+    
+}

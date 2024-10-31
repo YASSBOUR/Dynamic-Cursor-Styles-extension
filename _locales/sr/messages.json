@@ -1,0 +1,36 @@
+{
+    "app_name": {
+        "message": "Стил курсора - прилагођени курсор за ваш претраживач"
+    },    
+    "app_description": {
+        "message": "Цоол, слатки и смешни курсори за Цхроме™, бирајте између стотина опција."
+    },    
+    "app_popup": {
+        "message": "Стил курсора"
+    },
+    "app_size": {
+        "message": "Величина"
+    },
+    "more_cursors": {
+        "message": "Више курсора"
+    },
+    "favorite": {
+        "message": "Фаворитес"
+    },
+    "on": {
+        "message": "НА"
+    },    
+    "off": {
+        "message": "ВАН"
+    },
+    "active_cursor": {
+        "message": "Активан"
+    },  
+    "assistance": {
+        "message": "асистент"
+    },       
+    "assistance_default": {
+        "message": "Уобичајено"
+    }
+    
+}

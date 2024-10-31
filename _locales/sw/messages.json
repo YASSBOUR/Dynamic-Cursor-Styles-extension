@@ -1,0 +1,36 @@
+{
+    "app_name": {
+        "message": "Mtindo wa mshale - kishale maalum kwa kivinjari chako"
+    },    
+    "app_description": {
+        "message": "Vishale baridi, vya kupendeza na vya kuchekesha vya Chrome™, chagua kutoka kwa mamia ya chaguo."
+    },    
+    "app_popup": {
+        "message": "Mtindo wa mshale"
+    },
+    "app_size": {
+        "message": "Ukubwa"
+    },
+    "more_cursors": {
+        "message": "Mishale zaidi"
+    },
+    "favorite": {
+        "message": "Vipendwa"
+    },
+    "on": {
+        "message": "WASHA"
+    },    
+    "off": {
+        "message": "IMEZIMWA"
+    },
+    "active_cursor": {
+        "message": "Inayotumika"
+    },  
+    "assistance": {
+        "message": "Msaidizi"
+    },       
+    "assistance_default": {
+        "message": "Chaguomsingi"
+    }
+    
+}

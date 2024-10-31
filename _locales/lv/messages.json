@@ -1,0 +1,36 @@
+{
+    "app_name": {
+        "message": "Kursora stils — pielāgots kursors jūsu pārlūkprogrammai"
+    },    
+    "app_description": {
+        "message": "Forši, jauki un smieklīgi kursori pārlūkam Chrome™ — izvēlieties no simtiem iespēju."
+    },    
+    "app_popup": {
+        "message": "Kursora stils"
+    },
+    "app_size": {
+        "message": "Izmērs"
+    },
+    "more_cursors": {
+        "message": "Vairāk kursoru"
+    },
+    "favorite": {
+        "message": "Izlase"
+    },
+    "on": {
+        "message": "IESLĒGTS"
+    },    
+    "off": {
+        "message": "IZSLĒGTS"
+    },
+    "active_cursor": {
+        "message": "Aktīvs"
+    },  
+    "assistance": {
+        "message": "Asistents"
+    },       
+    "assistance_default": {
+        "message": "Noklusējums"
+    }
+    
+}

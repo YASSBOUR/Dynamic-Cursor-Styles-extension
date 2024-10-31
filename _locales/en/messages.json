@@ -1,0 +1,36 @@
+{
+    "app_name": {
+        "message": "Cursor style - custom cursor for your browser"
+    },    
+    "app_description": {
+        "message": "Cool, cute and funny cursors for Chrome™, choose from hundreds of options."
+    },    
+    "app_popup": {
+        "message": "Cursor style"
+    },
+    "app_size": {
+        "message": "Size"
+    },
+    "more_cursors": {
+        "message": "More cursors"
+    },
+    "favorite": {
+        "message": "Favorites"
+    },
+    "on": {
+        "message": "ON"
+    },    
+    "off": {
+        "message": "OFF"
+    },
+    "active_cursor": {
+        "message": "Active"
+    },  
+    "assistance": {
+        "message": "Assistant"
+    },       
+    "assistance_default": {
+        "message": "Default"
+    }
+    
+}

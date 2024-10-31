@@ -1,0 +1,36 @@
+{
+    "app_name": {
+        "message": "కర్సర్ శైలి - మీ బ్రౌజర్ కోసం అనుకూల కర్సర్"
+    },    
+    "app_description": {
+        "message": "Chrome™ కోసం అద్భుతమైన, అందమైన మరియు ఫన్నీ కర్సర్\u200cలు, వందల కొద్దీ ఎంపికల నుండి ఎంచుకోండి."
+    },    
+    "app_popup": {
+        "message": "కర్సర్ శైలి"
+    },
+    "app_size": {
+        "message": "పరిమాణం"
+    },
+    "more_cursors": {
+        "message": "మరిన్ని కర్సర్\u200cలు"
+    },
+    "favorite": {
+        "message": "ఇష్టమైనవి"
+    },
+    "on": {
+        "message": "పై"
+    },    
+    "off": {
+        "message": "ఆఫ్"
+    },
+    "active_cursor": {
+        "message": "చురుకుగా"
+    },  
+    "assistance": {
+        "message": "సహాయకుడు"
+    },       
+    "assistance_default": {
+        "message": "డిఫాల్ట్"
+    }
+    
+}

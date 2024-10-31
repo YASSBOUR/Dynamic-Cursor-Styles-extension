@@ -1,0 +1,36 @@
+{
+    "app_name": {
+        "message": "סגנון הסמן - סמן מותאם אישית לדפדפן שלך"
+    },    
+    "app_description": {
+        "message": "סמנים מגניבים, חמודים ומצחיקים עבור Chrome™, בחר מתוך מאות אפשרויות."
+    },    
+    "app_popup": {
+        "message": "סגנון הסמן"
+    },
+    "app_size": {
+        "message": "הגודל"
+    },
+    "more_cursors": {
+        "message": "עוד סמנים"
+    },
+    "favorite": {
+        "message": "מועדפים"
+    },
+    "on": {
+        "message": "עַל"
+    },    
+    "off": {
+        "message": "כבוי"
+    },
+    "active_cursor": {
+        "message": "פָּעִיל"
+    },  
+    "assistance": {
+        "message": "עוֹזֵר"
+    },       
+    "assistance_default": {
+        "message": "בְּרִירַת מֶחדָל"
+    }
+    
+}

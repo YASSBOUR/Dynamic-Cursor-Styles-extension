@@ -1,0 +1,36 @@
+{
+    "app_name": {
+        "message": "कर्सर शैली - आपल्या ब्राउझरसाठी सानुकूल कर्सर"
+    },    
+    "app_description": {
+        "message": "Chrome™ साठी छान, गोंडस आणि मजेदार कर्सर, शेकडो पर्यायांमधून निवडा."
+    },    
+    "app_popup": {
+        "message": "कर्सर शैली"
+    },
+    "app_size": {
+        "message": "आकार"
+    },
+    "more_cursors": {
+        "message": "अधिक कर्सर"
+    },
+    "favorite": {
+        "message": "आवडते"
+    },
+    "on": {
+        "message": "चालू"
+    },    
+    "off": {
+        "message": "बंद"
+    },
+    "active_cursor": {
+        "message": "सक्रिय"
+    },  
+    "assistance": {
+        "message": "सहाय्यक"
+    },       
+    "assistance_default": {
+        "message": "डीफॉल्ट"
+    }
+    
+}

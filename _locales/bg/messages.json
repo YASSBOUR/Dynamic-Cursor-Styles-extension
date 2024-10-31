@@ -1,0 +1,36 @@
+{
+    "app_name": {
+        "message": "Стил на курсора - персонализиран курсор за вашия браузър"
+    },    
+    "app_description": {
+        "message": "Готини, сладки и забавни курсори за Chrome™, избирайте от стотици опции."
+    },    
+    "app_popup": {
+        "message": "Стил на курсора"
+    },
+    "app_size": {
+        "message": "Размерът"
+    },
+    "more_cursors": {
+        "message": "Още курсори"
+    },
+    "favorite": {
+        "message": "Любими"
+    },
+    "on": {
+        "message": "НА"
+    },    
+    "off": {
+        "message": "ИЗКЛ"
+    },
+    "active_cursor": {
+        "message": "Активен"
+    },  
+    "assistance": {
+        "message": "Помощник"
+    },       
+    "assistance_default": {
+        "message": "По подразбиране"
+    }
+    
+}

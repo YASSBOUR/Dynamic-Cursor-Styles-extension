@@ -1,0 +1,36 @@
+{
+    "app_name": {
+        "message": "கர்சர் நடை - உங்கள் உலாவிக்கான தனிப்பயன் கர்சர்"
+    },    
+    "app_description": {
+        "message": "Chrome™க்கான அருமையான, அழகான மற்றும் வேடிக்கையான கர்சர்கள், நூற்றுக்கணக்கான விருப்பங்களிலிருந்து தேர்வு செய்யவும்."
+    },    
+    "app_popup": {
+        "message": "கர்சர் பாணி"
+    },
+    "app_size": {
+        "message": "அளவு"
+    },
+    "more_cursors": {
+        "message": "மேலும் கர்சர்கள்"
+    },
+    "favorite": {
+        "message": "பிடித்தவை"
+    },
+    "on": {
+        "message": "ஆன்"
+    },    
+    "off": {
+        "message": "ஆஃப்"
+    },
+    "active_cursor": {
+        "message": "செயலில்"
+    },  
+    "assistance": {
+        "message": "உதவியாளர்"
+    },       
+    "assistance_default": {
+        "message": "இயல்புநிலை"
+    }
+    
+}

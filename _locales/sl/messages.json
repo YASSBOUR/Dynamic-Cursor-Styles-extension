@@ -1,0 +1,36 @@
+{
+    "app_name": {
+        "message": "Slog kazalca - kazalec po meri za vaš brskalnik"
+    },    
+    "app_description": {
+        "message": "Kul, ljubki in smešni kazalci za Chrome™, izbirajte med stotinami možnosti."
+    },    
+    "app_popup": {
+        "message": "Slog kazalca"
+    },
+    "app_size": {
+        "message": "Velikost"
+    },
+    "more_cursors": {
+        "message": "Več kazalcev"
+    },
+    "favorite": {
+        "message": "Priljubljene"
+    },
+    "on": {
+        "message": "VKLOP"
+    },    
+    "off": {
+        "message": "IZKLOP"
+    },
+    "active_cursor": {
+        "message": "Aktiven"
+    },  
+    "assistance": {
+        "message": "Pomočnik"
+    },       
+    "assistance_default": {
+        "message": "Privzeto"
+    }
+    
+}

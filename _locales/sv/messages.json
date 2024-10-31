@@ -1,0 +1,36 @@
+{
+    "app_name": {
+        "message": "Markörstil - anpassad markör för din webbläsare"
+    },    
+    "app_description": {
+        "message": "Coola, söta och roliga markörer för Chrome™, välj bland hundratals alternativ."
+    },    
+    "app_popup": {
+        "message": "Markör stil"
+    },
+    "app_size": {
+        "message": "Storleken"
+    },
+    "more_cursors": {
+        "message": "Fler markörer"
+    },
+    "favorite": {
+        "message": "Favoriter"
+    },
+    "on": {
+        "message": "PÅ"
+    },    
+    "off": {
+        "message": "AV"
+    },
+    "active_cursor": {
+        "message": "Aktiva"
+    },  
+    "assistance": {
+        "message": "Assistent"
+    },       
+    "assistance_default": {
+        "message": "Standard"
+    }
+    
+}
