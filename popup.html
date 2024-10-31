@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="ru">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="css/popup.css">
+        <link rel="stylesheet" href="css/slider.css">
+        <link rel="stylesheet" href="css/onoff.css">
+        <link rel="stylesheet" href="css/get_more.css">
+        <script src="js/popup/init_popup.js"></script>
+        <script src="/js/libs/jquery-3.4.1.min.js"></script>
+        <script src="/js/libs/lazyload.min.js"></script>
+
+    </head>
+    <body class="popMain">
+
+        <div id="cursor_preview"><img src=""></div>
+        <div class="loader" id="loader">
+            <img style="width:128px;" src="/images/loader.svg"/>
+        </div>
+
+        <div class="modal_bg" id="modal_bg"></div>
+
+        <div class="assistance-help">
+            <div class="assistance-help-container">
+                <div class="title" data-lang="assistance_default">Default</div>
+                <img class="img" id="assist_default"/>
+            </div>
+            <div class="assistance-help-container">
+                <div class="title" data-lang="assistance">Assistant</div>
+                <img class="img" id="assist_assist"/>
+            </div>            
+        </div>
+
+        <div id="mainScreen">
+            <div class="leftline" id="leftline"></div>
+            <div class="topline" id="topline"></div>
+            <!-- LOGO -->
+            <div class="container">
+                <div class="row">
+                    <div class="logo">
+                        <a href="https://en.cursor.style" target="_blank"> <img src="images/eng-logo.svg" class="logoImg" ></a>
+                    </div>
+                    <div class="top_r">
+                        <div class="col">
+                            <ul class="tg-list">
+                                <li class="tg-list-item">
+                                    <input class="tgl tgl-flip" id="turnOnOff" type="checkbox" checked>
+                                    <label class="tgl-btn" id="onofflabel" data-tg-off="OFF" data-tg-on="ON" for="turnOnOff"></label>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="mContainer">
+                <!-- CURSOR SIZE -->
+                <div class="container">         
+                    
+                    <div id="current_cursor">
+                        <div class="current_cursor_title" data-lang="active_cursor">Active</div>
+                        <img src="" id="current_cursor_img" alt="Current cursor">
+                    </div>
+                    <div class="cursor-assistance">
+                        <div class="on-off">
+                            <label class="toggle-control">
+                                <input id="cursor_assist" type="checkbox">
+                                <span class="control"></span>
+                            </label>
+                        <div class="current_cursor_title" data-lang="assistance">Assistance</div>                            
+                            <div class="ask" id="onoff_help"></div>  
+                        </div>
+
+                        
+                    </div>                    
+                    <div class="row rangeSlider" style="margin-left: 5px">
+                        <div class="cSizeLabel" data-lang="app_size">Size</div>
+                        <div class="range">
+                            <input type="range" id="curSize" min="16" max="85" steps="1" value="1">
+                        </div>
+                    </div>              
+                </div>    
+
+
+                <div class="container mLeftRight">
+                    <div id="page1" class="tabcontent">
+                        <div class="scroll-wrapper">
+                            <div class="scroll" id="listCategory">
+
+                            </div>
+
+
+                            <div class="btn_download download" id="openWebsiteMore">
+                                <div class="btn_download_text">
+                                    <span data-lang="get_more">MORE CURSORS...</span>
+                                </div>
+
+                                <div class="cloud">
+                                    <div class="arrow"></div>
+                                </div>
+
+                            </div>
+
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <!-- BOTTOM BUTTONS -->
+                <div class="container mLeftRight">
+                    <button class="button-77" id="openWebsite" data-lang="more_cursors">
+                        <svg class="plusIcon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><path d="M368 224H224V80c0-8.84-7.16-16-16-16h-32c-8.84 0-16 7.16-16 16v144H16c-8.84 0-16 7.16-16 16v32c0 8.84 7.16 16 16 16h144v144c0 8.84 7.16 16 16 16h32c8.84 0 16-7.16 16-16V288h144c8.84 0 16-7.16 16-16v-32c0-8.84-7.16-16-16-16z"/></svg>
+                        More cursors
+                    </button>
+                    <div class="notif_div"><span class="notif_count" id="notify_count">+1</span></div>
+                </div>
+            </div>
+        </div>
+
+        <script src="js/popup/slider.js"></script>
+        <script src="js/popup/popup.js"></script>
+        <script src="js/popup/lang.js"></script>
+        <script src="js/popup/last_cursors.js" async defer></script>
+    </body>
+</html>
